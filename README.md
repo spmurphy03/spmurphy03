@@ -1,125 +1,109 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Shamus Murphy — IT, Cloud, Networking and Robotics" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Shamus Murphy — IT Support, Cloud, Networking and Robotics" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamus-p-murphy-40994a2a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/spmurphy03"><img src="https://img.shields.io/badge/GitHub-spmurphy03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Pittsburgh%2C_PA-0f172a?style=for-the-badge&logo=googlemaps&logoColor=67e8f9" alt="Pittsburgh, PA">
+  <img src="https://img.shields.io/badge/CIS_@_CCAC-0f172a?style=for-the-badge&logo=academia&logoColor=67e8f9" alt="Computer Information Systems at CCAC">
+  <img src="https://img.shields.io/badge/AWS-CERT_IN_PROGRESS-0f172a?style=for-the-badge&logo=amazonwebservices&logoColor=67e8f9" alt="AWS certification in progress">
 </p>
 
-## About Me
-
-I’m an IT professional with hands-on experience in **help desk support, hardware and software troubleshooting, telecommunications, low-voltage systems, and robotics-support environments**.
-
-I’m currently pursuing an **A.S. in Computer Information Systems at CCAC** and building toward technical roles in **cloud infrastructure, networking, robotics, automation, and field engineering**.
-
-> **Current focus:** AWS • Linux • Networking • Python • Git/GitHub • Automation
-
----
-
-## Technical Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/TCP%2FIP-0B5CAD?style=flat-square" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/DNS%20%26%20DHCP-34495E?style=flat-square" alt="DNS and DHCP">
-  <img src="https://img.shields.io/badge/Fiber%20Optics-7C3AED?style=flat-square" alt="Fiber Optics">
-  <img src="https://img.shields.io/badge/Low%20Voltage-374151?style=flat-square" alt="Low Voltage">
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamus-p-murphy-40994a2a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/spmurphy03"><img src="https://img.shields.io/badge/GitHub-spmurphy03-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-| Area | Hands-on skills |
-|---|---|
-| **IT Support** | Windows troubleshooting, hardware diagnostics, software support, end-user support, ticket documentation |
-| **Networking** | TCP/IP, DNS, DHCP, LAN/WAN concepts, Ethernet, connectivity diagnostics |
-| **Telecom / Field Work** | Structured cabling, fiber fundamentals, low-voltage installation, field troubleshooting |
-| **Cloud / Systems** | AWS fundamentals, Linux fundamentals, IAM concepts, virtual machines |
-| **Robotics Support** | Hardware troubleshooting, connectivity checks, incident documentation, escalation workflows |
+## `> operator_profile`
 
----
+I’m an IT professional with hands-on experience across **help desk support, hardware/software troubleshooting, telecommunications, low-voltage systems, and robotics-support environments**.
 
-## Featured Projects
+My direction is infrastructure-heavy: **find the fault, understand the system, restore service, document what happened, and make the next failure easier to solve.** I’m currently pursuing an **A.S. in Computer Information Systems at CCAC** while expanding into AWS, Linux, networking, Python, and automation.
 
-### ☁️ AWS Static Website Lab
-**In progress**
+<p align="center">
+  <img src="./assets/system-map.svg" width="100%" alt="Technical focus map showing endpoint support, networking, cloud infrastructure and robotics" />
+</p>
 
-Building and documenting a static website deployment in AWS with a focus on:
-- Amazon S3
-- IAM and permissions
-- Static hosting configuration
-- Security decisions
-- Troubleshooting and validation
+## `> stack --active`
 
-`AWS` `S3` `IAM` `Cloud`
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-### 🛠️ IT Help Desk Troubleshooting Lab
-**In progress**
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0ea5e9?style=flat-square" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/DNS-0284c7?style=flat-square" alt="DNS">
+  <img src="https://img.shields.io/badge/DHCP-0369a1?style=flat-square" alt="DHCP">
+  <img src="https://img.shields.io/badge/Ethernet-075985?style=flat-square" alt="Ethernet">
+  <img src="https://img.shields.io/badge/Fiber_Optics-0e7490?style=flat-square" alt="Fiber Optics">
+  <img src="https://img.shields.io/badge/Low_Voltage-155e75?style=flat-square" alt="Low Voltage">
+  <img src="https://img.shields.io/badge/IAM-164e63?style=flat-square" alt="IAM">
+  <img src="https://img.shields.io/badge/Virtual_Machines-083344?style=flat-square" alt="Virtual Machines">
+</p>
 
-A portfolio of realistic support tickets documenting:
-- symptoms
-- diagnostic steps
-- root cause
-- resolution
-- verification
+| DOMAIN | WHAT I WORK WITH |
+|:--|:--|
+| **Endpoint / Support** | Windows, hardware diagnostics, software issues, end-user support, ticket documentation |
+| **Network / Telecom** | TCP/IP, DNS, DHCP, Ethernet, structured cabling, fiber fundamentals |
+| **Cloud / Systems** | AWS fundamentals, Linux, IAM concepts, virtual machines, Git/GitHub |
+| **Field / Robotics** | Hardware troubleshooting, connectivity checks, incident documentation, escalation workflows |
 
-Planned scenarios include DNS failures, connectivity problems, Windows issues, software problems, and account-access troubleshooting.
+## `> build_queue`
 
-`Windows` `Networking` `Support` `Documentation`
+| PROJECT | STATUS | PURPOSE |
+|:--|:--:|:--|
+| **AWS Static Website Lab** | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-0ea5e9?style=flat-square) | Deploy, secure, document, and troubleshoot an S3-hosted static site |
+| **Help Desk Troubleshooting Lab** | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-0ea5e9?style=flat-square) | Turn realistic support incidents into documented diagnostic workflows |
+| **Network Troubleshooting Toolkit** | ![Queued](https://img.shields.io/badge/QUEUED-334155?style=flat-square) | Build command-driven TCP/IP, DNS, routing, and connectivity playbooks |
+| **Robotics Support Knowledge Base** | ![Queued](https://img.shields.io/badge/QUEUED-334155?style=flat-square) | Create a vendor-neutral field-support and escalation reference |
 
-### 🌐 Network Troubleshooting Toolkit
-**Planned**
+### What each project will prove
 
-A practical reference built around real command-line troubleshooting workflows using:
+```text
+OBSERVE  →  ISOLATE  →  TEST  →  FIX  →  VERIFY  →  DOCUMENT
+```
 
-`ipconfig` · `ping` · `tracert` · `nslookup` · `netstat` · `arp` · `route print`
+I’m building projects around **evidence**, not buzzwords: screenshots, command output, diagrams, troubleshooting notes, configuration decisions, and lessons learned.
 
-`TCP/IP` `DNS` `CLI` `Diagnostics`
+## `> experience`
 
-### 🤖 Robotics Support Knowledge Base
-**Planned**
+### Aethon — Help Desk Technician
+Worked in a technical environment involving **autonomous mobile robotics**, supporting hardware, software, connectivity, and end-user issues while documenting and escalating technical problems.
 
-A vendor-neutral technical reference covering:
-- hardware diagnostic flow
-- network/connectivity checks
-- incident documentation
-- escalation procedures
-- preventive-maintenance thinking
+### Alpha Scanlon LLC — Telecommunications & IT Technician
+Hands-on field work involving **telecommunications, structured cabling, low-voltage systems, connectivity, hardware installation, and troubleshooting**.
 
-`Robotics` `Field Support` `Diagnostics` `Documentation`
-
----
-
-## Experience
-
-### Help Desk Technician — Aethon
-Worked in a technical environment involving autonomous mobile robotics, providing support across hardware, software, connectivity, and end-user issues.
-
-### Telecommunications & IT Technician — Alpha Scanlon LLC
-Hands-on telecommunications and IT field work involving cabling, connectivity, hardware installation, low-voltage systems, and troubleshooting.
-
----
-
-## Education & Development
+## `> education && development`
 
 **Community College of Allegheny County (CCAC)**  
-A.S. Computer Information Systems — *Expected 2028*
+A.S. Computer Information Systems — **Expected 2028**
 
-**Currently building:** AWS certification knowledge, Linux administration, networking, Python, Git/GitHub, cloud infrastructure, and automation fundamentals.
+**Current learning path**
+
+```text
+AWS  ─────────────► Cloud / Infrastructure
+Linux ────────────► Systems
+Networking ───────► Troubleshooting / Field Engineering
+Python ───────────► Automation
+Git + GitHub ─────► Documentation / Version Control
+```
+
+## `> target_roles`
+
+**Robotics Field Service Engineer** • **Field Implementation Engineer** • **Cloud / Infrastructure Support** • **Systems / Network Technician** • **Automation / Reliability**
 
 ---
 
-## Career Direction
+<p align="center">
+  <b>Build it. Break it. Trace the failure. Fix it. Document it.</b>
+</p>
 
-I’m building this portfolio toward opportunities in:
-
-- **Robotics Field Service**
-- **Field Implementation / Deployment**
-- **Cloud & Infrastructure Support**
-- **Systems / Network Support**
-- **Automation & Reliability Engineering**
-
-The goal of this profile is simple: **show real technical ability through documented projects, troubleshooting, and hands-on work.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamus-p-murphy-40994a2a7">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/spmurphy03">GitHub</a>
+</p>
