@@ -71,7 +71,7 @@ I’m building projects around **evidence**, not buzzwords: screenshots, command
 
 ## `> experience`
 
-### Aethon — Help Desk Technician
+### Aethon — Robotics Operations Specialist
 Worked in a technical environment involving **autonomous mobile robotics**, supporting hardware, software, connectivity, and end-user issues while documenting and escalating technical problems.
 
 ### Alpha Scanlon LLC — Telecommunications & IT Technician
