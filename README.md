@@ -1,124 +1,125 @@
-# Shamus Murphy
+<p align="center">
+  <img src="./assets/header.svg" alt="Shamus Murphy — IT, Cloud, Networking and Robotics" width="100%" />
+</p>
 
-### IT Support • Telecommunications • Cloud • Robotics
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamus-p-murphy-40994a2a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/spmurphy03"><img src="https://img.shields.io/badge/GitHub-spmurphy03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-I'm an IT professional in the Pittsburgh area with hands-on experience in help desk support, hardware/software troubleshooting, telecommunications, low-voltage work, and technical environments involving autonomous mobile robotics.
+## About Me
 
-I'm currently pursuing an **A.S. in Computer Information Systems at CCAC** while building deeper skills in **AWS, Linux, networking, automation, and cloud infrastructure**.
+I’m an IT professional with hands-on experience in **help desk support, hardware and software troubleshooting, telecommunications, low-voltage systems, and robotics-support environments**.
 
-## Career Focus
+I’m currently pursuing an **A.S. in Computer Information Systems at CCAC** and building toward technical roles in **cloud infrastructure, networking, robotics, automation, and field engineering**.
 
-I'm working toward roles such as:
+> **Current focus:** AWS • Linux • Networking • Python • Git/GitHub • Automation
 
-- Robotics Field Service Engineer
-- Field Implementation Engineer
-- Cloud / Infrastructure Support
-- Network or Systems Technician
-- Automation / RME technical roles
+---
 
-## Technical Skills
+## Technical Stack
 
-**IT Support**
-- Windows troubleshooting
-- Hardware diagnostics
-- Software installation and configuration
-- End-user support
-- Ticket documentation and escalation
-- Remote troubleshooting
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0B5CAD?style=flat-square" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/DNS%20%26%20DHCP-34495E?style=flat-square" alt="DNS and DHCP">
+  <img src="https://img.shields.io/badge/Fiber%20Optics-7C3AED?style=flat-square" alt="Fiber Optics">
+  <img src="https://img.shields.io/badge/Low%20Voltage-374151?style=flat-square" alt="Low Voltage">
+</p>
 
-**Networking & Telecommunications**
-- TCP/IP fundamentals
-- DNS and DHCP
-- LAN/WAN concepts
-- Ethernet cabling
-- Fiber-optic fundamentals
-- Low-voltage installation
-- Structured cabling and field troubleshooting
+| Area | Hands-on skills |
+|---|---|
+| **IT Support** | Windows troubleshooting, hardware diagnostics, software support, end-user support, ticket documentation |
+| **Networking** | TCP/IP, DNS, DHCP, LAN/WAN concepts, Ethernet, connectivity diagnostics |
+| **Telecom / Field Work** | Structured cabling, fiber fundamentals, low-voltage installation, field troubleshooting |
+| **Cloud / Systems** | AWS fundamentals, Linux fundamentals, IAM concepts, virtual machines |
+| **Robotics Support** | Hardware troubleshooting, connectivity checks, incident documentation, escalation workflows |
 
-**Cloud & Systems**
-- AWS fundamentals
-- Linux fundamentals
-- Virtual machines
-- IAM concepts
-- Cloud infrastructure
-- Basic scripting and automation
-
-**Robotics & Field Technology**
-- Robotics support environment experience
-- Hardware troubleshooting
-- Connectivity diagnostics
-- Field-service workflows
-- Preventive troubleshooting
-- Technical issue escalation
+---
 
 ## Featured Projects
 
 ### ☁️ AWS Static Website Lab
-Building and documenting a static website hosted with Amazon S3, including permissions, hosting configuration, security considerations, and troubleshooting.
+**In progress**
 
-**Skills:** AWS, S3, IAM, cloud fundamentals  
-**Status:** In progress
+Building and documenting a static website deployment in AWS with a focus on:
+- Amazon S3
+- IAM and permissions
+- Static hosting configuration
+- Security decisions
+- Troubleshooting and validation
+
+`AWS` `S3` `IAM` `Cloud`
 
 ### 🛠️ IT Help Desk Troubleshooting Lab
-A practical collection of Windows, networking, software, and end-user support scenarios with documented symptoms, diagnostic steps, root causes, fixes, and verification.
+**In progress**
 
-**Skills:** Windows, networking, troubleshooting, documentation  
-**Status:** In progress
+A portfolio of realistic support tickets documenting:
+- symptoms
+- diagnostic steps
+- root cause
+- resolution
+- verification
+
+Planned scenarios include DNS failures, connectivity problems, Windows issues, software problems, and account-access troubleshooting.
+
+`Windows` `Networking` `Support` `Documentation`
 
 ### 🌐 Network Troubleshooting Toolkit
-A hands-on reference for tools such as `ping`, `ipconfig`, `tracert`, `nslookup`, `netstat`, `arp`, and `route print`.
+**Planned**
 
-**Skills:** TCP/IP, DNS, DHCP, Windows CLI, network diagnostics  
-**Status:** Planned
+A practical reference built around real command-line troubleshooting workflows using:
+
+`ipconfig` · `ping` · `tracert` · `nslookup` · `netstat` · `arp` · `route print`
+
+`TCP/IP` `DNS` `CLI` `Diagnostics`
 
 ### 🤖 Robotics Support Knowledge Base
-A technical knowledge base covering generic robotics-support workflows, hardware diagnostics, connectivity checks, incident documentation, and escalation procedures.
+**Planned**
 
-**Skills:** Robotics support, diagnostics, technical documentation, field support  
-**Status:** Planned
+A vendor-neutral technical reference covering:
+- hardware diagnostic flow
+- network/connectivity checks
+- incident documentation
+- escalation procedures
+- preventive-maintenance thinking
+
+`Robotics` `Field Support` `Diagnostics` `Documentation`
+
+---
 
 ## Experience
 
 ### Help Desk Technician — Aethon
-- Provided technical support in an environment involving autonomous mobile robotics.
-- Troubleshot hardware, software, connectivity, and end-user issues.
-- Documented technical problems and escalated issues when necessary.
-- Built practical experience working around robotics and technical operations.
+Worked in a technical environment involving autonomous mobile robotics, providing support across hardware, software, connectivity, and end-user issues.
 
 ### Telecommunications & IT Technician — Alpha Scanlon LLC
-- Performs telecommunications, IT, and low-voltage field work.
-- Supports cabling, connectivity, hardware installation, and troubleshooting.
-- Works in hands-on field and customer environments.
-
-## Education
-
-**Community College of Allegheny County (CCAC)**  
-Associate of Science — Computer Information Systems  
-Expected completion: **2028**
-
-## Currently Learning
-
-- AWS
-- Linux
-- Networking
-- Python
-- Git & GitHub
-- Cloud infrastructure
-- Robotics and automation systems
-
-## Certifications
-
-- AWS certification — **In progress**
-- Additional cloud/networking certifications planned
-
-## Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/shamus-p-murphy-40994a2a7
-- **GitHub:** https://github.com/spmurphy03
-- **Location:** Pittsburgh, Pennsylvania
+Hands-on telecommunications and IT field work involving cabling, connectivity, hardware installation, low-voltage systems, and troubleshooting.
 
 ---
 
-### What this GitHub is for
+## Education & Development
 
-This profile is being built to demonstrate **real, hands-on technical ability** through projects, documentation, troubleshooting labs, diagrams, and practical cloud/networking work—not just a list of coursework.
+**Community College of Allegheny County (CCAC)**  
+A.S. Computer Information Systems — *Expected 2028*
+
+**Currently building:** AWS certification knowledge, Linux administration, networking, Python, Git/GitHub, cloud infrastructure, and automation fundamentals.
+
+---
+
+## Career Direction
+
+I’m building this portfolio toward opportunities in:
+
+- **Robotics Field Service**
+- **Field Implementation / Deployment**
+- **Cloud & Infrastructure Support**
+- **Systems / Network Support**
+- **Automation & Reliability Engineering**
+
+The goal of this profile is simple: **show real technical ability through documented projects, troubleshooting, and hands-on work.**
