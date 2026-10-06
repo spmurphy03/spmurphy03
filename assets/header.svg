@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Shamus Murphy — IT, Cloud, Networking and Robotics</title>
+  <desc id="desc">GitHub profile banner for Shamus Murphy</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#102a43"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="20%" r="62%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="1028" cy="75" r="58" fill="none" stroke="#38bdf8" stroke-opacity=".34" stroke-width="2"/>
+  <circle cx="1028" cy="75" r="38" fill="none" stroke="#38bdf8" stroke-opacity=".20" stroke-width="2"/>
+  <path d="M946 236 C995 178 1053 173 1110 118" fill="none" stroke="#7dd3fc" stroke-opacity=".32" stroke-width="3"/>
+  <circle cx="946" cy="236" r="6" fill="#7dd3fc"/>
+  <circle cx="1110" cy="118" r="6" fill="#38bdf8"/>
+  <text x="74" y="118" fill="#e6f6ff" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="700">Shamus Murphy</text>
+  <text x="76" y="164" fill="#7dd3fc" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="3">IT SUPPORT  •  CLOUD  •  NETWORKING  •  ROBOTICS</text>
+  <text x="76" y="218" fill="#b8c7d9" font-size="20" font-family="Arial, Helvetica, sans-serif">Building reliable systems. Solving real-world technical problems.</text>
+  <text x="76" y="258" fill="#7f93a8" font-size="16" font-family="Arial, Helvetica, sans-serif">Pittsburgh, PA   |   Computer Information Systems @ CCAC</text>
+</svg>
