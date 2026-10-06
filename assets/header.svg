@@ -1,30 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Shamus Murphy — IT, Cloud, Networking and Robotics</title>
-  <desc id="desc">GitHub profile banner for Shamus Murphy</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07111f"/>
-      <stop offset="55%" stop-color="#0d1b2a"/>
-      <stop offset="100%" stop-color="#102a43"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="20%" r="62%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".28"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".07" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
-  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
-  <circle cx="1028" cy="75" r="58" fill="none" stroke="#38bdf8" stroke-opacity=".34" stroke-width="2"/>
-  <circle cx="1028" cy="75" r="38" fill="none" stroke="#38bdf8" stroke-opacity=".20" stroke-width="2"/>
-  <path d="M946 236 C995 178 1053 173 1110 118" fill="none" stroke="#7dd3fc" stroke-opacity=".32" stroke-width="3"/>
-  <circle cx="946" cy="236" r="6" fill="#7dd3fc"/>
-  <circle cx="1110" cy="118" r="6" fill="#38bdf8"/>
-  <text x="74" y="118" fill="#e6f6ff" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="700">Shamus Murphy</text>
-  <text x="76" y="164" fill="#7dd3fc" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="3">IT SUPPORT  •  CLOUD  •  NETWORKING  •  ROBOTICS</text>
-  <text x="76" y="218" fill="#b8c7d9" font-size="20" font-family="Arial, Helvetica, sans-serif">Building reliable systems. Solving real-world technical problems.</text>
-  <text x="76" y="258" fill="#7f93a8" font-size="16" font-family="Arial, Helvetica, sans-serif">Pittsburgh, PA   |   Computer Information Systems @ CCAC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+<title id="title">Shamus Murphy — Infrastructure, Cloud, Networking, Robotics</title>
+<desc id="desc">Dark data-center inspired GitHub profile banner</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#020617"/>
+    <stop offset="55%" stop-color="#071426"/>
+    <stop offset="100%" stop-color="#0b1f33"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="80%" cy="34%" r="58%">
+    <stop offset="0%" stop-color="#22d3ee" stop-opacity=".22"/>
+    <stop offset="60%" stop-color="#38bdf8" stop-opacity=".08"/>
+    <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0ea5e9" stop-opacity=".15"/>
+    <stop offset="55%" stop-color="#22d3ee" stop-opacity=".9"/>
+    <stop offset="100%" stop-color="#67e8f9" stop-opacity=".15"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#67e8f9" stroke-opacity=".045" stroke-width="1"/>
+  </pattern>
+  <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1400" height="430" rx="30" fill="url(#bg)"/>
+<rect width="1400" height="430" rx="30" fill="url(#glow)"/>
+<rect width="1400" height="430" rx="30" fill="url(#grid)"/>
+
+<!-- ambient infrastructure lines -->
+<path d="M0 338 H330 L380 288 H650 L706 234 H910 L980 164 H1400" fill="none" stroke="url(#line)" stroke-width="2" opacity=".42"/>
+<path d="M0 368 H450 L520 300 H780 L835 248 H1100 L1180 170 H1400" fill="none" stroke="#38bdf8" stroke-opacity=".14" stroke-width="1.5"/>
+
+<!-- server racks -->
+<g transform="translate(1025,72)" opacity=".88">
+  <rect x="0" y="0" width="118" height="260" rx="12" fill="#07101c" stroke="#38bdf8" stroke-opacity=".42"/>
+  <rect x="136" y="20" width="118" height="240" rx="12" fill="#07101c" stroke="#22d3ee" stroke-opacity=".3"/>
+  <g fill="#0b1727" stroke="#67e8f9" stroke-opacity=".18">
+    <rect x="14" y="18" width="90" height="24" rx="4"/><rect x="14" y="52" width="90" height="24" rx="4"/>
+    <rect x="14" y="86" width="90" height="24" rx="4"/><rect x="14" y="120" width="90" height="24" rx="4"/>
+    <rect x="14" y="154" width="90" height="24" rx="4"/><rect x="14" y="188" width="90" height="24" rx="4"/>
+    <rect x="14" y="222" width="90" height="24" rx="4"/>
+    <rect x="150" y="38" width="90" height="24" rx="4"/><rect x="150" y="72" width="90" height="24" rx="4"/>
+    <rect x="150" y="106" width="90" height="24" rx="4"/><rect x="150" y="140" width="90" height="24" rx="4"/>
+    <rect x="150" y="174" width="90" height="24" rx="4"/><rect x="150" y="208" width="90" height="24" rx="4"/>
+  </g>
+  <g fill="#22d3ee" filter="url(#softGlow)">
+    <circle cx="28" cy="30" r="2.5"/><circle cx="28" cy="64" r="2.5"/><circle cx="28" cy="98" r="2.5"/>
+    <circle cx="28" cy="132" r="2.5"/><circle cx="28" cy="166" r="2.5"/><circle cx="28" cy="200" r="2.5"/>
+    <circle cx="164" cy="50" r="2.5"/><circle cx="164" cy="84" r="2.5"/><circle cx="164" cy="118" r="2.5"/>
+    <circle cx="164" cy="152" r="2.5"/><circle cx="164" cy="186" r="2.5"/><circle cx="164" cy="220" r="2.5"/>
+  </g>
+</g>
+
+<!-- network nodes -->
+<g fill="#020617" stroke="#67e8f9" stroke-width="1.5" stroke-opacity=".72">
+  <circle cx="936" cy="105" r="9"/><circle cx="980" cy="142" r="7"/><circle cx="912" cy="187" r="7"/>
+</g>
+<g stroke="#22d3ee" stroke-opacity=".36" stroke-width="1.5">
+  <path d="M936 114 L975 137"/><path d="M932 112 L916 180"/><path d="M980 149 L918 184"/>
+</g>
+
+<!-- text -->
+<text x="76" y="100" fill="#67e8f9" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" letter-spacing="4">PITTSBURGH // INFRASTRUCTURE // FIELD SYSTEMS</text>
+<text x="72" y="177" fill="#f8fafc" font-size="66" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="-2">SHAMUS MURPHY</text>
+<text x="76" y="222" fill="#bae6fd" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="600">IT Support  •  Cloud  •  Networking  •  Robotics</text>
+<text x="76" y="279" fill="#94a3b8" font-size="19" font-family="Arial, Helvetica, sans-serif">Hands-on systems troubleshooting with a field-engineering mindset.</text>
+
+<g transform="translate(76 320)">
+  <rect width="126" height="34" rx="17" fill="#082f49" stroke="#0ea5e9" stroke-opacity=".55"/>
+  <circle cx="18" cy="17" r="5" fill="#22d3ee" filter="url(#softGlow)"/>
+  <text x="34" y="22" fill="#cffafe" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="700">BUILDING</text>
+</g>
+<text x="218" y="343" fill="#7dd3fc" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">AWS • LINUX • NETWORKING • PYTHON • AUTOMATION</text>
+
+<text x="76" y="390" fill="#475569" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">github.com/spmurphy03</text>
 </svg>
