@@ -15,9 +15,9 @@
 
 ## `> operator_profile`
 
-I’m an IT professional with hands-on experience across **help desk support, hardware/software troubleshooting, telecommunications, low-voltage systems, and robotics-support environments**.
+I’m an **IT and robotics support professional** with approximately **two years of help desk experience supporting autonomous mobile robots (AMRs) at Aethon**, alongside telecommunications and IT field experience at Alpha Scanlon LLC. My background includes hardware/software troubleshooting, connectivity support, technical documentation, and escalation of unresolved issues.
 
-My direction is infrastructure-heavy: **find the fault, understand the system, restore service, document what happened, and make the next failure easier to solve.** I’m currently pursuing an **A.S. in Computer Information Systems at CCAC** while expanding into AWS, Linux, networking, Python, and automation.
+I’m pursuing an **A.S. in Computer Information Systems at CCAC** and developing skills in **AWS fundamentals, Linux, networking, Python, and automation** through study and portfolio projects. I’m seeking **robotics support, robotics technician, entry-level Reliability and Maintenance Engineering (RME), and IT infrastructure support** opportunities where I can apply my troubleshooting experience and build further technical skills.
 
 <p align="center">
   <img src="./assets/system-map.svg" width="100%" alt="Technical focus map showing endpoint support, networking, cloud infrastructure and robotics" />
@@ -45,12 +45,14 @@ My direction is infrastructure-heavy: **find the fault, understand the system, r
   <img src="https://img.shields.io/badge/Virtual_Machines-083344?style=flat-square" alt="Virtual Machines">
 </p>
 
-| DOMAIN | WHAT I WORK WITH |
+The badges above show both support skills and technologies I’m studying. AWS, Linux, IAM, virtual machines, and Python are development areas; they do not indicate production administration experience or completed certifications.
+
+| DOMAIN | EXPERIENCE / DEVELOPMENT |
 |:--|:--|
 | **Endpoint / Support** | Windows, hardware diagnostics, software issues, end-user support, ticket documentation |
 | **Network / Telecom** | TCP/IP, DNS, DHCP, Ethernet, structured cabling, fiber fundamentals |
-| **Cloud / Systems** | AWS fundamentals, Linux, IAM concepts, virtual machines, Git/GitHub |
-| **Field / Robotics** | Hardware troubleshooting, connectivity checks, incident documentation, escalation workflows |
+| **Cloud / Systems — Learning** | AWS fundamentals, Linux, IAM concepts, virtual machines, Git/GitHub |
+| **Robotics Support** | AMR help desk support, hardware/software troubleshooting, connectivity issues, technical documentation, escalation |
 
 ## `> build_queue`
 
@@ -71,8 +73,14 @@ I’m building projects around **evidence**, not buzzwords: screenshots, command
 
 ## `> experience`
 
-### Aethon — Robotics Operations Specialist
-Worked in a technical environment involving **autonomous mobile robotics**, supporting hardware, software, connectivity, and end-user issues while documenting and escalating technical problems.
+### Aethon — Robotics Operations Specialist (Robotics Help Desk Support)
+Approximately two years supporting **autonomous mobile robots (AMRs)** in a help desk role.
+
+- Provided technical support for robot-related hardware, software, connectivity, and end-user issues.
+- Troubleshot reported problems and documented issues and support actions.
+- Escalated unresolved technical problems for further investigation.
+
+This experience provides a foundation in **robotics troubleshooting, incident documentation, and technical escalation** that I’m seeking to build on in robotics technician, RME, and infrastructure support roles.
 
 ### Alpha Scanlon LLC — Telecommunications & IT Technician
 Hands-on field work involving **telecommunications, structured cabling, low-voltage systems, connectivity, hardware installation, and troubleshooting**.
@@ -94,7 +102,7 @@ Git + GitHub ─────► Documentation / Version Control
 
 ## `> target_roles`
 
-**Robotics Field Service Engineer** • **Field Implementation Engineer** • **Cloud / Infrastructure Support** • **Systems / Network Technician** • **Automation / Reliability**
+**Robotics Support Specialist** • **Robotics Technician** • **RME Apprentice / Entry-Level Maintenance Technician** • **IT Infrastructure Support** • **Systems / Network Support Technician**
 
 ---
 
